@@ -1,0 +1,20 @@
+{
+  "name": "codereact",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "李羅漢"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "3.3.7"
+  }
+}
