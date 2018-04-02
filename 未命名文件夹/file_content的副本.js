@@ -1,4 +1,4 @@
-/* jshint mocha: true */
+/* jshint mocha: tr2222222ue */
 
 import assert from 'assert';
 import fs from 'fs';
