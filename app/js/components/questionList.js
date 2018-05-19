@@ -15,6 +15,7 @@ module.exports = class QuestionList extends React.Component{
       },this)
 
      console.log(questionitemCom)
+   
       function compare(prop) {
         return function(a,b){
           var v1 = a[prop].vote/1;
